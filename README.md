@@ -42,7 +42,8 @@ from command-line (latest changes, if any):
 
 ## AUTHOR
 
-Clipland GmbH, [clipland.com](http://www.clipland.com/)
+Clipland for  
+Micropolis GmbH, [micropolis.com](https://www.micropolis.com/)
 
 ## COPYRIGHT & LICENSE
 
