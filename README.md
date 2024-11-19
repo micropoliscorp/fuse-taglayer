@@ -46,6 +46,7 @@ Clipland GmbH, [clipland.com](http://www.clipland.com/)
 
 ## COPYRIGHT & LICENSE
 
+Copyright 2024 Micropolis GmbH. All rights reserved.  
 Copyright 2012-2013 Clipland GmbH. All rights reserved.
 
 This library is free software, dual-licensed under [GPLv3](http://www.gnu.org/licenses/gpl)/[AL2](http://opensource.org/licenses/Artistic-2.0).
